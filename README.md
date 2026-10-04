@@ -9,10 +9,6 @@ The application allows users to add, view, update, and delete expenses, manage c
 **Frontend**
 
 * React.js
-* JavaScript
-* HTML
-* CSS
-* Vite
 
 **Backend**
 
@@ -20,7 +16,6 @@ The application allows users to add, view, update, and delete expenses, manage c
 * Spring Boot
 * Spring Data JPA
 * Hibernate
-* Maven
 * REST APIs
 
 **Database**
